@@ -30,7 +30,7 @@ export default function Page() {
           <img src="/src/img/88db/88db-3.jpg" alt="88db"></img>y6jujuyju6
         </div>
         <div className="flex justify-center pt-24">
-          <img alt="88DB" src="/src/img/88db/88db-4.jpg" alt="88db"></img>
+          <img alt="88DB" src="/src/img/88db/88db-4.jpg"></img>
         </div>
       </div>
     </div>
