@@ -5,6 +5,7 @@ import Image from "next/image";
 import Navigation from "./components/navbar";
 import TopNavigation from "./components/topnav";
 import Script from "next/script";
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -41,6 +42,7 @@ export default function RootLayout({
           </div>
         </main>
       </body>
+      <GoogleAnalytics gaId="G-4MM174P3LW" />
     </html>
   );
 }
