@@ -53,9 +53,13 @@ const ExpandNav = () => {
       </ul>
       <div className="flex justify-center pt-6 pb-20">
         <div className="flex justify-center pt-6">
-          <a target="_blank" href="https://www.linkedin.com/in/bo-phan/">
+          <a target="_blank" href="https://www.linkedin.com/in/bo-phan/" className="pr-3">
             {" "}
             <img src="/src/img/icon.svg" alt="Linkedin"></img>
+          </a>
+          <a target="_blank" href="https://github.com/Atthachai1984">
+            {" "}
+            <img src="/src/img/github.svg" alt="Linkedin"></img>
           </a>
         </div>
       </div>

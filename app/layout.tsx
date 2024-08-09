@@ -34,15 +34,15 @@ export default function RootLayout({
                 {children}
                 <footer className="flex items-center flex-warp max-w-[1240px] mb-12 px-30 flex-row h-64 text-center text-gray-400">
                   <div className=" w-full items-center text-sm font-light">
-                    Made with React JS + Tailwinds by Atthachai Phanuthat
+                    Made with <a href="https://react.dev/" target="_blank" className="underline">React JS,</a> + <a href="https://tailwindcss.com/" target="_blank" className="underline">Tailwinds</a> by <a href="http://iam-bo.com/" target="_blank" className="underline">Atthachai Phanuthat</a>, Hosted by <a href="https://vercel.com/" target="_blank" className="underline">@Vercel</a>
                   </div>
                 </footer>
               </div>
             </div>
           </div>
         </main>
-      </body>
-      <GoogleAnalytics gaId="G-4MM174P3LW" />
-    </html>
+      </body >
+      <GoogleAnalytics gaId="G-FJ6FPWGP1W" />
+    </html >
   );
 }
