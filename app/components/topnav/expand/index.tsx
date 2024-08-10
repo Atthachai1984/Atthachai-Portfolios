@@ -6,64 +6,64 @@ const ExpandNav = () => {
       {/*expand Navigation*/}
       <ul className="text-center text-gray-500 text-sm font-light transition ease-in-out display:none">
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/sapa">SAPATV</a>
+          <a href="/sapa" className="hover:underline">SAPATV</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/pdflive">PDF LIVE</a>
+          <a href="/pdflive" className="hover:underline">PDF LIVE</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/splashed">Splashed</a>
+          <a href="/splashed" className="hover:underline">Splashed</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/gikipedia">Gikipedia</a>
+          <a href="/gikipedia" className="hover:underline">Gikipedia</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/clarie">Clarie</a>
+          <a href="/clarie" className="hover:underline">Clarie</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/openrice">OpenRice</a>
+          <a href="/openrice" className="hover:underline">OpenRice</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/88db">88db</a>
+          <a href="/88db" className="hover:underline">88db</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/kitchentech">Kitchen Tech</a>
+          <a href="/kitchentech" className="hover:underline">Kitchen Tech</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/eis">eis</a>
+          <a href="/eis" className="hover:underline">eis</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/2monkeysfilms">2MonkeysFilms</a>
+          <a href="/2monkeysfilms" className="hover:underline">2MonkeysFilms</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/leatherocasa">LeatherO Casa</a>
+          <a href="/leatherocasa" className="hover:underline">LeatherO Casa</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/matthewsfamilyfarms">Matthews Family Farms...</a>
+          <a href="/matthewsfamilyfarms" className="hover:underline">Matthews Family Farms...</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/infinitybusinessdev">Infinity Business Devel...</a>
+          <a href="/infinitybusinessdev" className="hover:underline">Infinity Business Devel...</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/babadook">Babadook</a>
+          <a href="/babadook" className="hover:underline">Babadook</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-          <a href="/movingcard">Moving Card</a>
+          <a href="/movingcard" className="hover:underline">Moving Card</a>
         </li>
       </ul>
       <div className="flex justify-center pt-6 pb-20">
         <div className="flex justify-center pt-6">
           <a target="_blank" href="https://www.linkedin.com/in/bo-phan/" className="pr-3">
             {" "}
-            <img src="/src/img/LinkedinB.svg" alt="Linkedin"></img>
+            <img src="/src/img/LinkedinB.svg" alt="Linkedin" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
           <a target="_blank" href="https://github.com/Atthachai1984" className="pr-3">
             {" "}
-            <img src="/src/img/GithubB.svg" alt="Github"></img>
+            <img src="/src/img/GithubB.svg" alt="Github" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
           <a target="_blank" href="https://vercel.com/atthachai-phanuthats-projects/my-portfolio">
             {" "}
-            <img src="/src/img/VercelB.svg" alt="Vercel"></img>
+            <img src="/src/img/VercelB.svg" alt="Vercel" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
         </div>
       </div>
