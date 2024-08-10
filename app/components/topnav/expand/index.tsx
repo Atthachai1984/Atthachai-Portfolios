@@ -55,11 +55,15 @@ const ExpandNav = () => {
         <div className="flex justify-center pt-6">
           <a target="_blank" href="https://www.linkedin.com/in/bo-phan/" className="pr-3">
             {" "}
-            <img src="/src/img/icon.svg" alt="Linkedin"></img>
+            <img src="/src/img/LinkedinB.svg" alt="Linkedin"></img>
           </a>
           <a target="_blank" href="https://github.com/Atthachai1984">
             {" "}
-            <img src="/src/img/github.svg" alt="Linkedin"></img>
+            <img src="/src/img/GithubB.svg" alt="Github"></img>
+          </a>
+          <a target="_blank" href="https://vercel.com/atthachai-phanuthats-projects/my-portfolio">
+            {" "}
+            <img src="/src/img/VercelB.svg" alt="Vercel"></img>
           </a>
         </div>
       </div>
