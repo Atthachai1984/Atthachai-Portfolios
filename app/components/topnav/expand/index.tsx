@@ -57,7 +57,7 @@ const ExpandNav = () => {
             {" "}
             <img src="/src/img/LinkedinB.svg" alt="Linkedin"></img>
           </a>
-          <a target="_blank" href="https://github.com/Atthachai1984">
+          <a target="_blank" href="https://github.com/Atthachai1984" className="pr-3">
             {" "}
             <img src="/src/img/GithubB.svg" alt="Github"></img>
           </a>
