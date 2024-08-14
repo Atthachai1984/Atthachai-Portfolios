@@ -2,14 +2,6 @@ export default function Index() {
   return (
     <main>
       <div className="grid lg:grid-cols-5 md:grid-cols-3 gap-x-4 gap-y-2">
-      <div className="flex justify-center col-span-1 overflow-hidden rounded-md  w-auto p{t|r|b|l}-{6} relative group cursor-pointer">
-          <img alt="sapatv" src="src/img/sapa.png"></img>
-          <div className="opacity-0 group-hover:opacity-100 duration-300 absolute inset-x-0 bottom-0 flex justify-center item-end bg-white h-full">
-            <div className="flex items-center text-gray-500 font-normal">
-              <a href="sapa">SAPATV</a>
-            </div>
-          </div>
-        </div>
         <div className="flex justify-center col-span-1 overflow-hidden rounded-md  w-auto p{t|r|b|l}-{6} relative group cursor-pointer">
           <img alt="PDFLive" src="src/img/pdflive.jpg"></img>
           <div className="opacity-0 group-hover:opacity-100 duration-300 absolute inset-x-0 bottom-0 flex justify-center item-end bg-white h-full">
