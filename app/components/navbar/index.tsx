@@ -10,9 +10,6 @@ const Navigation = () => {
         </div>
         <ul className="text-center text-gray-500 text-sm font-light transition ease-in-out max-w-40">
           <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-            <a href="/sapa" className="hover:underline">SAPATV</a>
-          </li>
-          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
             <a href="/pdflive" className="hover:underline">PDF LIVE</a>
           </li>
           <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
