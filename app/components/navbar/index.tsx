@@ -55,15 +55,15 @@ const Navigation = () => {
         <div className="flex justify-center pt-6">
           <a target="_blank" href="https://www.linkedin.com/in/bo-phan/" className="pr-3">
             {" "}
-            <img src="/src/img/LinkedinB.svg" alt="Linkedin" className="w-[30px] opacity-50 hover:opacity-100"></img>
+            <img src="/src/img/linkedin.png" alt="Linkedin" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
           <a target="_blank" href="https://github.com/Atthachai1984" className="pr-3">
             {" "}
-            <img src="/src/img/GithubB.svg" alt="Github" className="w-[30px] opacity-50 hover:opacity-100"></img>
+            <img src="/src/img/github.png" alt="Github" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
           <a target="_blank" href="https://vercel.com/atthachai-phanuthats-projects/my-portfolio">
             {" "}
-            <img src="/src/img/VercelB.svg" alt="Vercel" className="w-[30px] opacity-50 hover:opacity-100"></img>
+            <img src="/src/img/vercel.png" alt="Vercel" className="w-[30px] opacity-50 hover:opacity-100"></img>
           </a>
         </div>
       </nav>
