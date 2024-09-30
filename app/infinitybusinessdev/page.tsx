@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      <div className="bg-white justify-center max-lg:pt-10">
+      <div className="bg-white justify-center max-lg:pt-10 pl-[20px] pr-[20px]">
         <span className="text-center text-4xl">
           <h1>Infinity Business Development Group, Inc</h1>
         </span>

@@ -6,6 +6,12 @@ const ExpandNav = () => {
       {/*expand Navigation*/}
       <ul className="text-center text-gray-500 text-sm font-light transition ease-in-out display:none">
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
+          <a href="/sapa" className="hover:underline">SAPA</a>
+        </li>
+        <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
+          <a href="/trueid" className="hover:underline">TRUE ID</a>
+        </li>
+        <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
           <a href="/pdflive" className="hover:underline">PDF LIVE</a>
         </li>
         <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
