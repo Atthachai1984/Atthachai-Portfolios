@@ -23,7 +23,7 @@ Ture ID is considered a “Super App” It has multiple services in the app, etc
 features, from streaming service to Cloud Backups. The Challenge was to find a sweet spot
 of the designs that solve the problems yet are cohesive with the global design system.<br />
             <br />
-      <div className="text-sky-400">  < a href="https://tureid.net/" target="_blank" > Visit Site </a></div>
+      <div className="text-sky-400">  < a href="https://www.trueid.net/" target="_blank" > Visit Site </a></div>
             <br />
           </div>
           <div className="flex justify-center pt-24">
