@@ -15,10 +15,10 @@ export default function Page() {
           <div className="block text-center w-full text-gray-500 leading-loose">
           True ID<br /><br />
 True ID is a lifestyle and loyalty program app for True customers
-( True is a telco company in South East Asia )<br />
+( True is a telco company in South East Asia )<br /><br />
 As a Product Owner Ux/Ui lead, I am responsible for the overall UX/UI directions.
 I am working as a bridge between the in-house designer and the design agency to
-maintain a cohesive design system and branding.<br />
+maintain a cohesive design system and branding.<br /><br />
 Ture ID is considered a “Super App” It has multiple services in the app, etch domain has its unique
 features, from streaming service to Cloud Backups. The Challenge was to find a sweet spot
 of the designs that solve the problems yet are cohesive with the global design system.<br />
