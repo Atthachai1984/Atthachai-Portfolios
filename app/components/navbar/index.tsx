@@ -9,7 +9,7 @@ const Navigation = () => {
           <a href="/"> ATTHACHAI P </a>
         </div>
          <ul className="text-center text-gray-500 text-sm font-light transition ease-in-out max-w-40">
-          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
+          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer collapse">
            <a href="/sapa" className="hover:underline">SAPA</a>
          </li>
          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
