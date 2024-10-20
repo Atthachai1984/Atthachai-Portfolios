@@ -21,7 +21,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <container>
         <main className="flex justify-center">
           <div>
             {/*Warpping Container*/}
@@ -41,7 +40,6 @@ export default function RootLayout({
             </div>
           </div>
         </main>
-        </container>
       </body>
     </html>
   );
