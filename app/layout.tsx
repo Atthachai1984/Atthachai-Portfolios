@@ -40,6 +40,7 @@ export default function RootLayout({
             </div>
           </div>
         </main>
+        </container>
       </body>
     </html>
   );
