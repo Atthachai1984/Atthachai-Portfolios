@@ -10,8 +10,8 @@ const Navigation = () => {
         </div>
          <ul className="text-center text-gray-500 text-sm font-light transition ease-in-out max-w-40">
          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-           <a href="/trueid" className="hover:underline">TRUE ID</a>
-         </li>
+            <a href="/clarie" className="hover:underline">Clarie</a>
+          </li>
           <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
             <a href="/pdflive" className="hover:underline">PDF LIVE</a>
           </li>
@@ -20,9 +20,6 @@ const Navigation = () => {
           </li>
           <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
             <a href="/gikipedia" className="hover:underline">Gikipedia</a>
-          </li>
-          <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
-            <a href="/clarie" className="hover:underline">Clarie</a>
           </li>
           <li className="hover:text-gray-900 duration-300 pb-3 cursor-pointer">
             <a href="/openrice" className="hover:underline">OpenRice</a>

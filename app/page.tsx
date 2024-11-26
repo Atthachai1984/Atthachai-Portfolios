@@ -2,11 +2,11 @@ export default function Index() {
   return (
         <main>
         <div className="grid lg:grid-cols-5 md:grid-cols-3 gap-x-4 gap-y-2">
-        <div className="flex justify-center col-span-1 overflow-hidden rounded-md  w-auto p{t|r|b|l}-{6} relative group cursor-pointer">
-          <img alt="trueid" src="src/img/trueid.png"></img>
+        <div className="flex justify-center col-span-1 overflow-hidden rounded-md bg-zinc-200 w-auto p{t|r|b|l}-{6} relative group cursor-pointer">
+          <img alt="Clarie" src="/src/img/clarie.gif"></img>
           <div className="opacity-0 group-hover:opacity-100 duration-300 absolute inset-x-0 bottom-0 flex justify-center item-end bg-white h-full">
             <div className="flex items-center text-gray-500 font-normal">
-              <a href="trueid">TRUE ID</a>
+              <a href="clarie">CLARIE</a>
             </div>
           </div>
         </div>
@@ -31,14 +31,6 @@ export default function Index() {
           <div className="opacity-0 group-hover:opacity-100 duration-300 absolute inset-x-0 bottom-0 flex justify-center item-end bg-white h-full">
             <div className="flex items-center text-gray-500 font-normal">
               <a href="gikipedia">Gikipedia</a>
-            </div>
-          </div>
-        </div>
-        <div className="flex justify-center col-span-1 overflow-hidden rounded-md bg-zinc-200 w-auto p{t|r|b|l}-{6} relative group cursor-pointer">
-          <img alt="Clarie" src="/src/img/clarie.gif"></img>
-          <div className="opacity-0 group-hover:opacity-100 duration-300 absolute inset-x-0 bottom-0 flex justify-center item-end bg-white h-full">
-            <div className="flex items-center text-gray-500 font-normal">
-              <a href="clarie">CLARIE</a>
             </div>
           </div>
         </div>
