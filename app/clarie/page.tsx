@@ -19,7 +19,7 @@ export default function Page() {
           can download and also upload their local image to use as a background
           as well.
           <br /> <br />
-          <a class="underline"  href="https://chromewebstore.google.com/detail/clarie/obkoocpicbjnoaljdjbadoadkoemchlp" target="_blank">Clarie on Chrome Web Store</a>
+          <a className="underline"  href="https://chromewebstore.google.com/detail/clarie/obkoocpicbjnoaljdjbadoadkoemchlp" target="_blank">Clarie on Chrome Web Store</a>
           <br/> <br />
         </div>
         <div className="flex justify-center pt-24">
